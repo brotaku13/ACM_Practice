@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Great_Thief", "ACM_Practice
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DimWeights", "DimWeights\DimWeights.vcxproj", "{54894C14-D7C4-40A2-9EE8-D7DDD2278822}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SavagePokemon", "SavagePokemon\SavagePokemon.vcxproj", "{EF59EB8B-A1F1-46A5-8379-301AD9548FD3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{54894C14-D7C4-40A2-9EE8-D7DDD2278822}.Release|x64.Build.0 = Release|x64
 		{54894C14-D7C4-40A2-9EE8-D7DDD2278822}.Release|x86.ActiveCfg = Release|Win32
 		{54894C14-D7C4-40A2-9EE8-D7DDD2278822}.Release|x86.Build.0 = Release|Win32
+		{EF59EB8B-A1F1-46A5-8379-301AD9548FD3}.Debug|x64.ActiveCfg = Debug|x64
+		{EF59EB8B-A1F1-46A5-8379-301AD9548FD3}.Debug|x64.Build.0 = Debug|x64
+		{EF59EB8B-A1F1-46A5-8379-301AD9548FD3}.Debug|x86.ActiveCfg = Debug|Win32
+		{EF59EB8B-A1F1-46A5-8379-301AD9548FD3}.Debug|x86.Build.0 = Debug|Win32
+		{EF59EB8B-A1F1-46A5-8379-301AD9548FD3}.Release|x64.ActiveCfg = Release|x64
+		{EF59EB8B-A1F1-46A5-8379-301AD9548FD3}.Release|x64.Build.0 = Release|x64
+		{EF59EB8B-A1F1-46A5-8379-301AD9548FD3}.Release|x86.ActiveCfg = Release|Win32
+		{EF59EB8B-A1F1-46A5-8379-301AD9548FD3}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

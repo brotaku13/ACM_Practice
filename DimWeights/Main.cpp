@@ -20,6 +20,7 @@ struct parcel
 
 int main()
 {
+
 	vector<company> companyVec;
 	vector<parcel> parcelVec;
 	int n;
